@@ -1,2 +1,2 @@
 # JCA8Questions
-A set of question to help to prepare for Java 8 certification
+A set of question to help prepare for Java 8 certification
